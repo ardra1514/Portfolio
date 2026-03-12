@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import ParticlesBackground from '../components/ParticlesBackground'
 import emailjs from "@emailjs/browser"
 import { motion } from 'framer-motion'
-import astra from "../assets/astra.png"
+import astra from "../assets/Astra.png"
 
 const SERVICE_ID = import.meta.env.VITE_SERVICE_ID
 const TEMPLATE_ID = import.meta.env.VITE_TEMPLATE_ID
