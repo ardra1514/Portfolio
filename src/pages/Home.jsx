@@ -120,7 +120,7 @@ bg-gradient-to-r from-[#54ACBF] via-[#26658C] to-[#023859] to-[#011C40]'
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4, duration: 0.8 }}
             >
-              I turn complex ideas into seamless , high impact web experienc - building modern ,scalable ,and lighting-fast application that make a difference
+              I turn complex ideas into seamless , high impact web experience - building modern ,scalable ,and lighting-fast application that make a difference
             </motion.p>
 
 
